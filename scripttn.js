@@ -233,9 +233,9 @@ function displayBills(data) {
         <div class="tvpc-details" style="position: relative;">
             <p>Please Make Transfer in the Name</p>
             <p>M/s. True Value Professional  Consultancy  Pvt  Ltd,</p>
-            <p>Bank&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:&nbsp;Canara Bank- Gugai Branch </p>
-            <p>A/C No&nbsp;: 125003975636</p>
-            <span>IFSC&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: CNRB0001218</span>
+             <p>Bank&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:&nbsp;Union Bank of India - Salem Branch </p>
+            <p>A/C No&nbsp;: 050011100003730</p>
+            <span>IFSC&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: UBIN0900290</span>
 
             <!-- Bank seal image with absolute positioning -->
             <img class="seal" src="Digital-seal-img.png" width="140px" style="position: absolute; right: 20%; bottom:36%">
